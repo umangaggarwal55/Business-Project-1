@@ -6,6 +6,8 @@
 :https://1drv.ms/x/c/e0bf0890509a9d51/Ea27ifnpfXBNkvNY7CBNDa8BRNTKsAfEvdbbk0jBqdtP4Q?e=2DltQU
 
 ![My Project Image]([https://github.com/username/repositoryname/blob/main/image.png](https://github.com/umangaggarwal55/Business-Project-1/blob/main/BA%20dash..png))
+![Alt text]([https://your-image-url.com](https://github.com/umangaggarwal55/Business-Project-1/blob/main/BA%20dash..png?raw=true))
+
 
 1. ABSTRACT:
 
