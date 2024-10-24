@@ -3,9 +3,11 @@
 # Sales Performance Dashboard for Retail Businesses
 
 Dashboard in Excel: https://1drv.ms/x/c/e0bf0890509a9d51/Ea27ifnpfXBNkvNY7CBNDa8BRNTKsAfEvdbbk0jBqdtP4Q?e=2DltQU
-DashBoard in Power Bi:https://1drv.ms/u/c/e0bf0890509a9d51/EbEVx1U6cFRNo9AS-J1CIOwBVAMZT9jhS0Eq9WA9Koh_5Q?e=1wFF3A
 
-![My Project Image]([https://github.com/username/repositoryname/blob/main/image.png](https://github.com/umangaggarwal55/Business-Project-1/blob/main/BA%20dash..png))
+<img src="https://github.com/umangaggarwal55/Business-Project-1/blob/main/BA%20dash..png?raw=true" alt="Image Description" width="500" />
+
+DashBoard in Power Bi:https://1drv.ms/u/c/e0bf0890509a9d51/EbEVx1U6cFRNo9AS-J1CIOwBVAMZT9jhS0Eq9WA9Koh_5Q?e=Y9klmW
+
 <img src="https://github.com/umangaggarwal55/Business-Project-1/blob/main/BA%20dash..png?raw=true" alt="Image Description" width="500" />
 
 
